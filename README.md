@@ -72,7 +72,7 @@ npm install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-VITE_APP_EMAILJS_SERVICE_ID = your_emailjs_user_id
+VITE_APP_EMAILJS_SERVICE_ID = your_emailjs_service_id
 VITE_APP_EMAILJS_TEMPLATE_ID = your_emailjs_template_id
 VITE_APP_EMAILJS_PUBLIC_KEY = your_emailjs_public_key
 ```
